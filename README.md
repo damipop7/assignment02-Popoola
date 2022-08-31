@@ -38,3 +38,10 @@ Take a slight right turn onto Boucle Seine Sud Paris
 Take a slight right turn onto Quai François Mitterrand
 	
 The destination (Louvre Museum) is on your left
+
+* Eiffel Tower
+* Cathédrale Notre-Dame De Paris
+* Musée D'Orsay
+* Musée De L'Orangerie
+* Palais Garnier
+
