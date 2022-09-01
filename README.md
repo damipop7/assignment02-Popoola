@@ -65,3 +65,8 @@ I have numerous cities I would love to recommend for people to visit. I consider
 |Santorini|Santorini Luxury Caldera Cruise with Full Greek Meal and Drinks|At least 4 hours|
 |Bali|Sanur Beach|At least 1 hour|
 |Nairobi|Ngong Hills|At least 1 hour 30 minutes|
+
+***
+# Quotes
+> "Nobody can bring you peace but yourself.” — *Ralph Waldo Emerson*
+> “If you are depressed you are living in the past. If you are anxious you are living in the future, if you are at peace, you are living in the present.” — *Lao Tzu*
