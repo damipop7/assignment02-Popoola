@@ -46,3 +46,22 @@ The destination (Louvre Museum) is on your left
 * Palais Garnier
 
 **[About Me file](AboutMe.md)**
+
+*** 
+# Tables
+I have numerous cities I would love to recommend for people to visit. I considered the food, tourist attractions, and so on. Below is a table for those cities. 
+
+
+| Cities that I would recommend someone to visit. |
+|----------|
+|Barcelona|
+|Santorini|
+|Bali|
+|Nairobi|
+
+|Name|Important location | Amount of time to spend visiting| 
+|-----|-----|-----|
+|Barcelona|Roman route|At least 2 hours|
+|Santorini|Santorini Luxury Caldera Cruise with Full Greek Meal and Drinks|At least 4 hours|
+|Bali|Sanur Beach|At least 1 hour|
+|Nairobi|Ngong Hills|At least 1 hour 30 minutes|
