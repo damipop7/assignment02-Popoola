@@ -71,3 +71,33 @@ I have numerous cities I would love to recommend for people to visit. I consider
 > "Nobody can bring you peace but yourself.” — *Ralph Waldo Emerson*
 
 > “If you are depressed you are living in the past. If you are anxious you are living in the future, if you are at peace, you are living in the present.” — *Lao Tzu*
+
+***
+# Code Fencing
+> Where are categories and products stored in Wordpress?
+[Stackoverflow](https://stackoverflow.com/questions/73410604/where-are-categories-and-products-stored-in-wordpress)
+
+'''
+h3>All Post Meta</h3>
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+'''
+
+[css-tricks](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
