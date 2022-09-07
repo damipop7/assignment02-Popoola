@@ -78,10 +78,9 @@ I have numerous cities I would love to recommend for people to visit. I consider
 [Stackoverflow](https://stackoverflow.com/questions/73410604/where-are-categories-and-products-stored-in-wordpress)
 
 '''
-  // Get all the data 
-  $getPostCustom = get_post_custom(); 
-
-    foreach($getPostCustom as $name=>$value) {
+// Get all the data 
+$getPostCustom = get_post_custom(); 
+foreach($getPostCustom as $name=>$value) {
 
         echo "<strong>" . $name . "</strong>"."  =>  ";
 
@@ -93,7 +92,7 @@ I have numerous cities I would love to recommend for people to visit. I consider
 
         echo "<br /><br />";
 
-    }
+}
 '''
 
 [css-tricks](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
