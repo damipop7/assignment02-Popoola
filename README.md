@@ -78,9 +78,6 @@ I have numerous cities I would love to recommend for people to visit. I consider
 [Stackoverflow](https://stackoverflow.com/questions/73410604/where-are-categories-and-products-stored-in-wordpress)
 
 '''
-h3>All Post Meta</h3>
-<?php 
-
   // Get all the data 
   $getPostCustom = get_post_custom(); 
 
@@ -97,7 +94,6 @@ h3>All Post Meta</h3>
         echo "<br /><br />";
 
     }
-?>
 '''
 
 [css-tricks](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
